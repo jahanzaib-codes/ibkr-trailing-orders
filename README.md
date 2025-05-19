@@ -51,7 +51,9 @@ Automate placing trailing stop limit sell orders on Interactive Brokers (IBKR) u
 ## 📝 Example CSV Format
 
 Symbol,Quantity,TrailingPercent,LimitOffset,AvgBuyPrice
+
 AAPL,10,1.5,0.3,180.25
+
 TSLA,5,2.0,0.5,700.00   
 
 
