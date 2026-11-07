@@ -73,6 +73,11 @@ flowchart TD
    * Set **Socket Port** to `7497` (Paper Trading) or `7496` (Live Trading).
    * Uncheck ❌ **"Read-Only API"** (to allow order placement).
    * Add `127.0.0.1` to **Trusted IP Addresses**.
+   * Enable ✅ **"Allow connections from localhost only"**.
+
+<p align="center">
+  <img src="tws_api_settings.jpg" width="700" alt="Interactive Brokers TWS API Settings Configuration" style="border-radius: 8px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);"/>
+</p>
 
 ---
 
