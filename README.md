@@ -13,7 +13,6 @@
 I engineer low-latency trading software, custom broker API connectors, risk-management systems, and institutional quantitative algorithms.
 * 💬 **Telegram:** [@JanzebBlockdev](https://t.me/JanzebBlockdev)
 * 💼 **Fiverr Profile:** [Verified Quantitative Developer (Fiverr)](https://www.fiverr.com/jahanzaib313110)
-* 📧 **Email:** `jahanzaibchanna70@gmail.com`
 
 ---
 
